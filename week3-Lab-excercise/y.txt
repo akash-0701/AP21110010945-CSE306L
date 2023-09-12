@@ -1,0 +1,36 @@
+keyword:	int
+identifier:	main
+delimiter:	(
+delimiter:	)
+delimiter:	{
+keyword:	int
+identifier:	a
+delimiter:	,
+identifier:	b
+delimiter:	,
+identifier:	ans
+delimiter:	;
+identifier:	scanf
+delimiter:	(
+delimiter:	"
+format specifier:	%d
+format specifier:	%d
+delimiter:	"
+delimiter:	)
+delimiter:	;
+identifier:	ans
+operator:	=
+identifier:	a
+operator:	*
+identifier:	b
+delimiter:	;
+identifier:	printf
+delimiter:	(
+delimiter:	"
+format specifier:	%d
+delimiter:	"
+delimiter:	,
+identifier:	ans
+delimiter:	)
+delimiter:	;
+delimiter:	}
